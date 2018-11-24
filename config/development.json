@@ -2,5 +2,10 @@
     "name":"Pankaj Development",
     "mail":{
         "host":"dev-mail-server"
+    },
+    "database":{
+        "mongodb":{
+            "path":"mongodb://localhost/socketProject"
+        }
     }
 }
