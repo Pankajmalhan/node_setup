@@ -1,4 +1,4 @@
-const express = require("express");
+import express from 'express'
 const app = express();
 const mainRouter = require('../router/mainRouter');
 const userRouter = require('../router/userRouter');
